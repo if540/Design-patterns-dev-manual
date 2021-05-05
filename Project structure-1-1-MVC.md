@@ -2,6 +2,6 @@
 
 MVC
 
-- MODEL
-- VIEW
-- CONTROLLER
+- Model
+- View
+- Controller
