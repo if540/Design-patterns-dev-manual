@@ -16,3 +16,4 @@ Proxy 創建一個代理對象，並且內建基本攔截數操作方法
 學習資源:
 - [代理模式](https://refactoringguru.cn/design-patterns/proxy)
 - [mozilla Proxy](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Proxy)
+- [js proxy 封裝案例](https://blog.fundebug.com/2019/06/14/how-to-use-javascript-proxy/)
