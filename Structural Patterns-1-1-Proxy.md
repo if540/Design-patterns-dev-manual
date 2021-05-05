@@ -9,5 +9,10 @@
   - vuejs 響應資料的暫存(cache)就是利用代理機制實現...
 - ...
 
+### Javascript
+
+Proxy 創建一個代理對象，並且內建基本攔截數操作方法
+
 學習資源:
 - [代理模式](https://refactoringguru.cn/design-patterns/proxy)
+- [mozilla Proxy](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Proxy)
