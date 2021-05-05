@@ -2,5 +2,11 @@
 
 代理模式
 
+### 適合應用場景:
+
+- 訪問控制
+- 重覆請求資料緩存
+- ...
+
 學習資源:
 - [代理模式](https://refactoringguru.cn/design-patterns/proxy)
